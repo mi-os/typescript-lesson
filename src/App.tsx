@@ -109,7 +109,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <TestComponent text="hello from app" />
+        <TestComponent text="↓ Let's type in the text area ! ↓" />
       </header>
     </div>
   );
